@@ -1,4 +1,0 @@
-LDZ-website
-===========
-
-Science Website
