@@ -67,6 +67,7 @@ button {
     background-image: url("Menu-button.png");
     height: 52px;
     width: 52px;
+    image-resolution: from-image;
      
 }
 
