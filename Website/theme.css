@@ -34,7 +34,7 @@ body {
     text-decoration: none;
     color: #108EC4;
     font-family: "josefin-sans";
-    padding: 5px;
+    padding: 6px;
     
 }
     
@@ -64,14 +64,9 @@ h1{
 
 button {
     
-    color: #CCCCCC; 
+    background-image: url("Menu-button.png");
     height: 52px;
     width: 52px;
-    border: none;
-    position: fixed;
-    top: 12.5em;
-    left: 0em;
-    
      
 }
 
