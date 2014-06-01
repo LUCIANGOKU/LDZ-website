@@ -100,7 +100,7 @@ button {
     width: 20em;
     position: absolute;
     top: 15em;
-    left: 25em;
+    left: 10em;
     background-color: #fff;
     opacity: 50;
     text-align: center;
@@ -120,7 +120,10 @@ button {
     
     color: #108EC4;
     font-family: "Lato";
-    font-size: 5em;
+    font-size: 2em;
+    position: absolute;
+    top: 4.5em;
+    left: 6.6em;
     
 }
 
