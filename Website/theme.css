@@ -96,7 +96,7 @@ button {
 
 #box-contain {
     
-    height: 13.5em;
+    height: 17em;
     width: 20em;
     position: absolute;
     top: 15em;
@@ -127,11 +127,29 @@ button {
     
 }
 
-
+#box2 {
     
+    height: 3.4em;
+    width: 20em;
+    position: absolute;
+    top: 15em;
+    left: 32em;
+    background-color: #fff;
+    opacity: 50;
+    text-align: center;
     
+}
     
+#p2 {
     
+    color: #108EC4;
+    font-family: "Lato";
+    font-size: 2em;
+    position: absolute;
+    top: -2.95em;
+    left: 3.5em;
+    
+}
     
     
     
